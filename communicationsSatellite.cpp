@@ -52,16 +52,40 @@ int findSet(vector< set< int > > vertSets, int element)
     return -1;
 }
 
+vector<ll> parent;
+vector<ll> sizeArr;
+
+void make_set(int v) {
+    parent[v] = v;
+    sizeArr[v] = 1;
+}
+
+int find_set(int v) {
+    if (v == parent[v])
+        return v;
+    return parent[v] = find_set(parent[v]);
+}
+
+void union_sets(int a, int b) {
+    a = find_set(a);
+    b = find_set(b);
+    if (a != b) {
+        if (sizeArr[a] < sizeArr[b])
+            swap(a, b);
+        parent[b] = a;
+        sizeArr[a] += sizeArr[b];
+    }
+}
 
 vector<mstEdge> kruskal(priority_queue<mstEdge> q, int verticies)
 {
-    vector< set< int > > vertSets(verticies);
-    unordered_map<int, int> setLoc;
-    for (int i = 0; i < verticies; i++)
-    {
-        vertSets[i].insert(i);
-        setLoc[i] = i;
-    }
+	parent.resize(verticies, 0);
+	sizeArr.resize(verticies, 0);
+
+	for(int i = 0; i < verticies; i++)
+	{
+		make_set(i);
+	}
     vector<mstEdge> mst;
     mstEdge temp;
     int index1, index2;
@@ -69,19 +93,13 @@ vector<mstEdge> kruskal(priority_queue<mstEdge> q, int verticies)
     {
         temp = q.top();
         q.pop();
-        index1 = setLoc[temp.src];
-        index2 = setLoc[temp.dest];
-        //index1 = findSet(vertSets, temp.dest);
-        //index2 = findSet(vertSets, temp.src);
+        index1 = find_set(temp.src);
+        index2 = find_set(temp.dest);
         
         if (index1 != index2)
         {
             mst.push_back(temp);
-            for (set<int>::iterator i = vertSets[index2].begin(); i != vertSets[index2].end(); i++)
-            {
-                vertSets[index1].insert((*i));
-                setLoc[*i] = index1;
-            }
+            union_sets(index1, index2);
             //vertSets.erase(vertSets.begin() + index2);
         }
     }
@@ -140,4 +158,6 @@ int main()
     cout << total << "\n";
     return 0;
 }
+
+
 
