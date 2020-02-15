@@ -1,3 +1,6 @@
+//algorithm for solving found by: https://open.kattis.com/users/keshav-manghat
+//implimentation by me
+
 #define _USE_MATH_DEFINES
 #include <iostream>
 #include <stdio.h>
