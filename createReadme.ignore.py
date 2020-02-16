@@ -6,6 +6,7 @@ if len(sys.argv) == 1:
 elif len(sys.argv) > 2:
     print("Only 1 filename is needed")
     exit(1)
+    
 KATTIS_PROBLEM_PREFIX = "https://open.kattis.com/problems/"
 GITHUB_LINK_PREFIX = "https://github.com/matthewReff/Kattis-Problems/blob/master/"
 
@@ -28,8 +29,7 @@ _LANGUAGE_GUESS = {
     'php': 'PHP',
     'pl': 'Prolog',
     'py': 'Python',
-    'rb': 'Ruby',
-    'sh': 'Shell Script'
+    'rb': 'Ruby'
 }
 
 filename = sys.argv[1]    

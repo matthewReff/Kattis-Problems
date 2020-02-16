@@ -3,6 +3,20 @@ My solutions for the programming contest website Kattis : open.kattis.com
 Some solutions may be my team's solution submitted under my account, I try to credit them with a comment in the header whenever possible.
 | Problem | Language | 
 |:-------:|:--------:| 
+|[*](https://open.kattis.com/problems/*)|[C](https://github.com/matthewReff/Kattis-Problems/blob/master/*.c)|
+|[*](https://open.kattis.com/problems/*)|[C#](https://github.com/matthewReff/Kattis-Problems/blob/master/*.c#)|
+|[*](https://open.kattis.com/problems/*)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/*.cc)|
+|[*](https://open.kattis.com/problems/*)|[C#](https://github.com/matthewReff/Kattis-Problems/blob/master/*.cs)|
+|[*](https://open.kattis.com/problems/*)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/*.cxx)|
+|[*](https://open.kattis.com/problems/*)|[Go](https://github.com/matthewReff/Kattis-Problems/blob/master/*.go)|
+|[*](https://open.kattis.com/problems/*)|[Haskell](https://github.com/matthewReff/Kattis-Problems/blob/master/*.hs)|
+|[*](https://open.kattis.com/problems/*)|[Java](https://github.com/matthewReff/Kattis-Problems/blob/master/*.java)|
+|[*](https://open.kattis.com/problems/*)|[JavaScript](https://github.com/matthewReff/Kattis-Problems/blob/master/*.js)|
+|[*](https://open.kattis.com/problems/*)|[Objective-C](https://github.com/matthewReff/Kattis-Problems/blob/master/*.m)|
+|[*](https://open.kattis.com/problems/*)|[Pascal](https://github.com/matthewReff/Kattis-Problems/blob/master/*.pas)|
+|[*](https://open.kattis.com/problems/*)|[PHP](https://github.com/matthewReff/Kattis-Problems/blob/master/*.php)|
+|[*](https://open.kattis.com/problems/*)|[Prolog](https://github.com/matthewReff/Kattis-Problems/blob/master/*.pl)|
+|[*](https://open.kattis.com/problems/*)|[Ruby](https://github.com/matthewReff/Kattis-Problems/blob/master/*.rb)|
 |[10kindsofpeople](https://open.kattis.com/problems/10kindsofpeople)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/10kindsofpeople.cpp)|
 |[3dprinter](https://open.kattis.com/problems/3dprinter)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/3dprinter.cpp)|
 |[8queens](https://open.kattis.com/problems/8queens)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/8queens.cpp)|
@@ -92,7 +106,6 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[communicationsSatellite](https://open.kattis.com/problems/communicationsSatellite)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/communicationsSatellite.cpp)|
 |[compass](https://open.kattis.com/problems/compass)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/compass.cpp)|
 |[competitivearcadebasketball](https://open.kattis.com/problems/competitivearcadebasketball)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/competitivearcadebasketball.cpp)|
-|[compile](https://open.kattis.com/problems/compile)|[Shell Script](https://github.com/matthewReff/Kattis-Problems/blob/master/compile.sh)|
 |[completingthesquare](https://open.kattis.com/problems/completingthesquare)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/completingthesquare.cpp)|
 |[compoundwords](https://open.kattis.com/problems/compoundwords)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/compoundwords.cpp)|
 |[conformity](https://open.kattis.com/problems/conformity)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/conformity.cpp)|
@@ -118,7 +131,6 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[different](https://open.kattis.com/problems/different)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/different.cpp)|
 |[differentdistances](https://open.kattis.com/problems/differentdistances)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/differentdistances.cpp)|
 |[display](https://open.kattis.com/problems/display)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/display.cpp)|
-|[done](https://open.kattis.com/problems/done)|[Shell Script](https://github.com/matthewReff/Kattis-Problems/blob/master/done.sh)|
 |[doorman](https://open.kattis.com/problems/doorman)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/doorman.cpp)|
 |[downtime](https://open.kattis.com/problems/downtime)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/downtime.cpp)|
 |[dragonball1](https://open.kattis.com/problems/dragonball1)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/dragonball1.cpp)|
@@ -159,7 +171,6 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[froshweek2](https://open.kattis.com/problems/froshweek2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/froshweek2.cpp)|
 |[galactic](https://open.kattis.com/problems/galactic)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/galactic.cpp)|
 |[gears2](https://open.kattis.com/problems/gears2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/gears2.cpp)|
-|[generateMarkdown](https://open.kattis.com/problems/generateMarkdown)|[Shell Script](https://github.com/matthewReff/Kattis-Problems/blob/master/generateMarkdown.sh)|
 |[gerrymandering](https://open.kattis.com/problems/gerrymandering)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/gerrymandering.cpp)|
 |[goatrope](https://open.kattis.com/problems/goatrope)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/goatrope.cpp)|
 |[grasshopper](https://open.kattis.com/problems/grasshopper)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/grasshopper.cpp)|
@@ -360,10 +371,8 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[speedlimit](https://open.kattis.com/problems/speedlimit)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/speedlimit.cpp)|
 |[squaredeal](https://open.kattis.com/problems/squaredeal)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/squaredeal.cpp)|
 |[stararrangements](https://open.kattis.com/problems/stararrangements)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/stararrangements.cpp)|
-|[start](https://open.kattis.com/problems/start)|[Shell Script](https://github.com/matthewReff/Kattis-Problems/blob/master/start.sh)|
 |[statistics](https://open.kattis.com/problems/statistics)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/statistics.cpp)|
 |[sticky](https://open.kattis.com/problems/sticky)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/sticky.cpp)|
-|[stop](https://open.kattis.com/problems/stop)|[Shell Script](https://github.com/matthewReff/Kattis-Problems/blob/master/stop.sh)|
 |[succession](https://open.kattis.com/problems/succession)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/succession.cpp)|
 |[sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/sumkindofproblem.cpp)|
 |[sumoftheothers](https://open.kattis.com/problems/sumoftheothers)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/sumoftheothers.py)|
@@ -374,8 +383,6 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[taisformula](https://open.kattis.com/problems/taisformula)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/taisformula.cpp)|
 |[tarifa](https://open.kattis.com/problems/tarifa)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/tarifa.cpp)|
 |[temp](https://open.kattis.com/problems/temp)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/temp.py)|
-|[test](https://open.kattis.com/problems/test)|[Shell Script](https://github.com/matthewReff/Kattis-Problems/blob/master/test.sh)|
-|[testCompile](https://open.kattis.com/problems/testCompile)|[Shell Script](https://github.com/matthewReff/Kattis-Problems/blob/master/testCompile.sh)|
 |[texturanalysis](https://open.kattis.com/problems/texturanalysis)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/texturanalysis.cpp)|
 |[thebackslashproblem](https://open.kattis.com/problems/thebackslashproblem)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/thebackslashproblem.cpp)|
 |[thisaintyourgrandpas](https://open.kattis.com/problems/thisaintyourgrandpas)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/thisaintyourgrandpas.cpp)|
