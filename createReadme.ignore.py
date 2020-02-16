@@ -42,6 +42,6 @@ with open(filename) as fileObj:
             markdownRow += "(" + KATTIS_PROBLEM_PREFIX + splitFile[0] + ")"
             markdownRow += "|"
             markdownRow += "[" + _LANGUAGE_GUESS[splitFile[1].rstrip()] + "]"
-            markdownRow += "(" + GITHUB_LINK_PREFIX + line+")"
+            markdownRow += "(" + GITHUB_LINK_PREFIX + line.rstrip() + ")"
             markdownRow += "|"
             print(markdownRow)
