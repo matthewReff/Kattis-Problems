@@ -3,20 +3,6 @@ My solutions for the programming contest website Kattis : open.kattis.com
 Some solutions may be my team's solution submitted under my account, I try to credit them with a comment in the header whenever possible.
 | Problem | Language | 
 |:-------:|:--------:| 
-|[*](https://open.kattis.com/problems/*)|[C](https://github.com/matthewReff/Kattis-Problems/blob/master/*.c)|
-|[*](https://open.kattis.com/problems/*)|[C#](https://github.com/matthewReff/Kattis-Problems/blob/master/*.c#)|
-|[*](https://open.kattis.com/problems/*)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/*.cc)|
-|[*](https://open.kattis.com/problems/*)|[C#](https://github.com/matthewReff/Kattis-Problems/blob/master/*.cs)|
-|[*](https://open.kattis.com/problems/*)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/*.cxx)|
-|[*](https://open.kattis.com/problems/*)|[Go](https://github.com/matthewReff/Kattis-Problems/blob/master/*.go)|
-|[*](https://open.kattis.com/problems/*)|[Haskell](https://github.com/matthewReff/Kattis-Problems/blob/master/*.hs)|
-|[*](https://open.kattis.com/problems/*)|[Java](https://github.com/matthewReff/Kattis-Problems/blob/master/*.java)|
-|[*](https://open.kattis.com/problems/*)|[JavaScript](https://github.com/matthewReff/Kattis-Problems/blob/master/*.js)|
-|[*](https://open.kattis.com/problems/*)|[Objective-C](https://github.com/matthewReff/Kattis-Problems/blob/master/*.m)|
-|[*](https://open.kattis.com/problems/*)|[Pascal](https://github.com/matthewReff/Kattis-Problems/blob/master/*.pas)|
-|[*](https://open.kattis.com/problems/*)|[PHP](https://github.com/matthewReff/Kattis-Problems/blob/master/*.php)|
-|[*](https://open.kattis.com/problems/*)|[Prolog](https://github.com/matthewReff/Kattis-Problems/blob/master/*.pl)|
-|[*](https://open.kattis.com/problems/*)|[Ruby](https://github.com/matthewReff/Kattis-Problems/blob/master/*.rb)|
 |[10kindsofpeople](https://open.kattis.com/problems/10kindsofpeople)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/10kindsofpeople.cpp)|
 |[3dprinter](https://open.kattis.com/problems/3dprinter)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/3dprinter.cpp)|
 |[8queens](https://open.kattis.com/problems/8queens)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/8queens.cpp)|
