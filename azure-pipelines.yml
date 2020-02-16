@@ -11,7 +11,4 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- script: ./generateMarkdown.sh
-  displayName: 'Generate markdown for readme'
-
 
