@@ -35,14 +35,13 @@ _LANGUAGE_GUESS = {
 filename = sys.argv[1]    
 with open(filename) as fileObj:
     for line in fileObj:
-        for sourceFile in line.split():
-            splitFile = sourceFile.split(".")
-            if len(splitFile) == 2:
-                markdownRow = "|"
-                markdownRow += "[" + splitFile[0] + "]"
-                markdownRow += "(" + KATTIS_PROBLEM_PREFIX + splitFile[0] + ")"
-                markdownRow += "|"
-                markdownRow += "[" + _LANGUAGE_GUESS[splitFile[1]] + "]"
-                markdownRow += "(" + GITHUB_LINK_PREFIX + sourceFile +")"
-                markdownRow += "|"
-                print(markdownRow)
+        splitFile = line.split(".")
+        if len(splitFile) == 2:
+            markdownRow = "|"
+            markdownRow += "[" + splitFile[0] + "]"
+            markdownRow += "(" + KATTIS_PROBLEM_PREFIX + splitFile[0] + ")"
+            markdownRow += "|"
+            markdownRow += "[" + _LANGUAGE_GUESS[splitFile[1].rstrip()] + "]"
+            markdownRow += "(" + GITHUB_LINK_PREFIX + line+")"
+            markdownRow += "|"
+            print(markdownRow)
