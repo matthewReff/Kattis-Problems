@@ -64,6 +64,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[brackets](https://open.kattis.com/problems/brackets)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/brackets.cpp)|
 |[bread](https://open.kattis.com/problems/bread)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/bread.cpp)|
 |[breakingbad](https://open.kattis.com/problems/breakingbad)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/breakingbad.cpp)|
+|[brokenswords](https://open.kattis.com/problems/brokenswords)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/brokenswords.cpp)|
 |[bubbletea](https://open.kattis.com/problems/bubbletea)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/bubbletea.cpp)|
 |[bus](https://open.kattis.com/problems/bus)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/bus.cpp)|
 |[busnumbers](https://open.kattis.com/problems/busnumbers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/busnumbers.cpp)|
@@ -144,6 +145,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[fallingapart](https://open.kattis.com/problems/fallingapart)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fallingapart.cpp)|
 |[falsesecurity](https://open.kattis.com/problems/falsesecurity)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/falsesecurity.py)|
 |[farmingmars](https://open.kattis.com/problems/farmingmars)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/farmingmars.cpp)|
+|[fastfood](https://open.kattis.com/problems/fastfood)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fastfood.cpp)|
 |[fenwick](https://open.kattis.com/problems/fenwick)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fenwick.cpp)|
 |[filip](https://open.kattis.com/problems/filip)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/filip.py)|
 |[fishmongers](https://open.kattis.com/problems/fishmongers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fishmongers.cpp)|
@@ -183,6 +185,8 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[hidden](https://open.kattis.com/problems/hidden)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/hidden.py)|
 |[hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/hissingmicrophone.cpp)|
 |[hothike](https://open.kattis.com/problems/hothike)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/hothike.cpp)|
+|[htoo](https://open.kattis.com/problems/htoo)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/htoo.cpp)|
+|[htoo](https://open.kattis.com/problems/htoo)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/htoo.py)|
 |[humancannonball2](https://open.kattis.com/problems/humancannonball2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/humancannonball2.cpp)|
 |[hydrasheads](https://open.kattis.com/problems/hydrasheads)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/hydrasheads.cpp)|
 |[iboard](https://open.kattis.com/problems/iboard)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/iboard.cpp)|
