@@ -8,3 +8,4 @@ echo "|:-------:|:--------:| " >> README.md
 python3 createReadme.ignore.py filenames.txt >> README.md
 rm filenames.txt
 rm temp.txt
+git add README.md
