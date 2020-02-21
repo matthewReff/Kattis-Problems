@@ -111,6 +111,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[datum](https://open.kattis.com/problems/datum)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/datum.py)|
 |[deathknight](https://open.kattis.com/problems/deathknight)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/deathknight.cpp)|
 |[deathstar](https://open.kattis.com/problems/deathstar)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/deathstar.cpp)|
+|[delimitersoup](https://open.kattis.com/problems/delimitersoup)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/delimitersoup.cpp)|
 |[delivery](https://open.kattis.com/problems/delivery)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/delivery.cpp)|
 |[detaileddifferences](https://open.kattis.com/problems/detaileddifferences)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/detaileddifferences.cpp)|
 |[dicecup](https://open.kattis.com/problems/dicecup)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/dicecup.py)|
@@ -193,6 +194,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[icpcawards](https://open.kattis.com/problems/icpcawards)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/icpcawards.cpp)|
 |[icpcteamselection](https://open.kattis.com/problems/icpcteamselection)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/icpcteamselection.cpp)|
 |[illiteracy](https://open.kattis.com/problems/illiteracy)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/illiteracy.cpp)|
+|[imagedecoding](https://open.kattis.com/problems/imagedecoding)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/imagedecoding.cpp)|
 |[incognito](https://open.kattis.com/problems/incognito)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/incognito.cpp)|
 |[industrialspy](https://open.kattis.com/problems/industrialspy)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/industrialspy.cpp)|
 |[inflation](https://open.kattis.com/problems/inflation)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/inflation.cpp)|
@@ -233,6 +235,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[marswindow](https://open.kattis.com/problems/marswindow)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/marswindow.cpp)|
 |[mastermind](https://open.kattis.com/problems/mastermind)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/mastermind.cpp)|
 |[matchgame](https://open.kattis.com/problems/matchgame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/matchgame.cpp)|
+|[mazemakers](https://open.kattis.com/problems/mazemakers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/mazemakers.cpp)|
 |[metaprogramming](https://open.kattis.com/problems/metaprogramming)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/metaprogramming.cpp)|
 |[mia](https://open.kattis.com/problems/mia)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/mia.cpp)|
 |[minimumscalar](https://open.kattis.com/problems/minimumscalar)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/minimumscalar.cpp)|
@@ -269,6 +272,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[patuljci](https://open.kattis.com/problems/patuljci)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/patuljci.cpp)|
 |[pauleigon](https://open.kattis.com/problems/pauleigon)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/pauleigon.cpp)|
 |[pearwise](https://open.kattis.com/problems/pearwise)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/pearwise.cpp)|
+|[peg](https://open.kattis.com/problems/peg)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/peg.cpp)|
 |[peragrams](https://open.kattis.com/problems/peragrams)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/peragrams.cpp)|
 |[perica](https://open.kattis.com/problems/perica)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/perica.cpp)|
 |[perica](https://open.kattis.com/problems/perica)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/perica.py)|
