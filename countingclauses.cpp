@@ -24,6 +24,16 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-    
+    ll num;
+    cin >> num;
+
+    if(num >= 8)
+    {
+    	cout << "satisfactory\n";
+    }
+    else
+    {
+    	cout << "unsatisfactory\n";
+    }
     return 0;
 }
