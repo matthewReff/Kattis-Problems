@@ -385,11 +385,13 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[touchscreenkeyboard](https://open.kattis.com/problems/touchscreenkeyboard)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/touchscreenkeyboard.cpp)|
 |[towering](https://open.kattis.com/problems/towering)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/towering.cpp)|
 |[trainpassengers](https://open.kattis.com/problems/trainpassengers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/trainpassengers.cpp)|
+|[transitwoes](https://open.kattis.com/problems/transitwoes)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/transitwoes.cpp)|
 |[treasurehunt](https://open.kattis.com/problems/treasurehunt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/treasurehunt.cpp)|
 |[treehouses](https://open.kattis.com/problems/treehouses)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/treehouses.cpp)|
 |[tri](https://open.kattis.com/problems/tri)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/tri.cpp)|
 |[triangle](https://open.kattis.com/problems/triangle)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/triangle.cpp)|
 |[trik](https://open.kattis.com/problems/trik)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/trik.py)|
+|[tripletexting](https://open.kattis.com/problems/tripletexting)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/tripletexting.cpp)|
 |[trollhunt](https://open.kattis.com/problems/trollhunt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/trollhunt.cpp)|
 |[tsp](https://open.kattis.com/problems/tsp)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/tsp.cpp)|
 |[tutorial](https://open.kattis.com/problems/tutorial)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/tutorial.py)|
