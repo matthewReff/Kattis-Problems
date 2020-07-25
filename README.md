@@ -120,6 +120,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[dragonball1](https://open.kattis.com/problems/dragonball1)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/dragonball1.cpp)|
 |[drinkingsong](https://open.kattis.com/problems/drinkingsong)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/drinkingsong.cpp)|
 |[drmmessages](https://open.kattis.com/problems/drmmessages)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/drmmessages.cpp)|
+|[drunkvigenere](https://open.kattis.com/problems/drunkvigenere)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/drunkvigenere.cpp)|
 |[dst](https://open.kattis.com/problems/dst)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/dst.cpp)|
 |[dunglish](https://open.kattis.com/problems/dunglish)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/dunglish.cpp)|
 |[duplicates](https://open.kattis.com/problems/duplicates)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/duplicates.py)|
@@ -143,6 +144,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[falsesecurity](https://open.kattis.com/problems/falsesecurity)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/falsesecurity.py)|
 |[fastfood](https://open.kattis.com/problems/fastfood)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fastfood.cpp)|
 |[fenwick](https://open.kattis.com/problems/fenwick)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fenwick.cpp)|
+|[fiftyshades](https://open.kattis.com/problems/fiftyshades)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fiftyshades.cpp)|
 |[filip](https://open.kattis.com/problems/filip)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/filip.py)|
 |[fishmongers](https://open.kattis.com/problems/fishmongers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fishmongers.cpp)|
 |[fizzbuzz](https://open.kattis.com/problems/fizzbuzz)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/fizzbuzz.cpp)|
@@ -332,6 +334,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[schoolspirit](https://open.kattis.com/problems/schoolspirit)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/schoolspirit.cpp)|
 |[secretmessage](https://open.kattis.com/problems/secretmessage)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/secretmessage.cpp)|
 |[securedoors](https://open.kattis.com/problems/securedoors)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/securedoors.py)|
+|[semafori](https://open.kattis.com/problems/semafori)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/semafori.cpp)|
 |[server](https://open.kattis.com/problems/server)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/server.cpp)|
 |[set](https://open.kattis.com/problems/set)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/set.cpp)|
 |[sevenWonders](https://open.kattis.com/problems/sevenWonders)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/sevenWonders.py)|
