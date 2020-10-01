@@ -93,6 +93,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[compoundwords](https://open.kattis.com/problems/compoundwords)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/compoundwords.cpp)|
 |[conformity](https://open.kattis.com/problems/conformity)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/conformity.cpp)|
 |[conquestcampaign](https://open.kattis.com/problems/conquestcampaign)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/conquestcampaign.cpp)|
+|[continuousmedian](https://open.kattis.com/problems/continuousmedian)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/continuousmedian.cpp)|
 |[conundrum](https://open.kattis.com/problems/conundrum)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/conundrum.py)|
 |[convexpolygonarea](https://open.kattis.com/problems/convexpolygonarea)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/convexpolygonarea.cpp)|
 |[cookingWater](https://open.kattis.com/problems/cookingWater)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/cookingWater.cpp)|
@@ -296,6 +297,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[primesieve](https://open.kattis.com/problems/primesieve)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/primesieve.cpp)|
 |[princesspeach](https://open.kattis.com/problems/princesspeach)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/princesspeach.cpp)|
 |[progressivescramble](https://open.kattis.com/problems/progressivescramble)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/progressivescramble.cpp)|
+|[proofs](https://open.kattis.com/problems/proofs)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/proofs.cpp)|
 |[provincesandgold](https://open.kattis.com/problems/provincesandgold)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/provincesandgold.cpp)|
 |[prozor](https://open.kattis.com/problems/prozor)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/prozor.cpp)|
 |[prsteni](https://open.kattis.com/problems/prsteni)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/prsteni.cpp)|
