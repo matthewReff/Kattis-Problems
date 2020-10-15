@@ -1,4 +1,5 @@
 import sys
+import re
 
 if len(sys.argv) == 1:
     print("Give a filename as an argument")
@@ -8,7 +9,7 @@ elif len(sys.argv) > 2:
     exit(1)
     
 KATTIS_PROBLEM_PREFIX = "https://open.kattis.com/problems/"
-GITHUB_LINK_PREFIX = "https://github.com/matthewReff/Kattis-Problems/blob/master/"
+GITHUB_LINK_PREFIX = "https://github.com/matthewReff/Kattis-Problems/code/blob/master/"
 
 #shamelessly taken from kattis's official submission script
 _LANGUAGE_GUESS = {
@@ -35,7 +36,9 @@ _LANGUAGE_GUESS = {
 filename = sys.argv[1]    
 with open(filename) as fileObj:
     for line in fileObj:
-        splitFile = line.split(".")
+        reg = re.search(r"(.*\/|)(.+)", line)
+        problemFileName = reg.group(2)
+        splitFile = problemFileName.split(".")
         if len(splitFile) == 2:
             markdownRow = "|"
             markdownRow += "[" + splitFile[0] + "]"
