@@ -9,7 +9,7 @@ elif len(sys.argv) > 2:
     exit(1)
     
 KATTIS_PROBLEM_PREFIX = "https://open.kattis.com/problems/"
-GITHUB_LINK_PREFIX = "https://github.com/matthewReff/Kattis-Problems/blob/master/code"
+GITHUB_LINK_PREFIX = "https://github.com/matthewReff/Kattis-Problems/blob/master/code/"
 
 #shamelessly taken from kattis's official submission script
 _LANGUAGE_GUESS = {
