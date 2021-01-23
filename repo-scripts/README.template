@@ -1,3 +1,21 @@
+# Using The Table:
+
+On the left is the direct link to the original kattis problem, on the right is a direct link to my solution in the language that is listed.
+
+If there are multiple entries in different languages, all of them will be shown on seperate rows.
+
+# code/
+
+Solution code is stored in the /code directory, along with a few shell scripts.
+
+Feel free to read the scripts to see what they do specifically, but something to note is that they assume you are using the executable name.
+
+# repo-scripts/
+
+This folder has the scripts the I use to generate the README file. You can try running it with:
+
+```$ ./generateMarkdown.sh```
+
 My solutions for the programming contest website Kattis : open.kattis.com
 
 Some solutions may be my team's solution submitted under my account, I try to credit them with a comment in the header whenever possible.
