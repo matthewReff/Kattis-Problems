@@ -48,6 +48,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[beavergnaw](https://open.kattis.com/problems/beavergnaw)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/beavergnaw.cpp)|
 |[beehives](https://open.kattis.com/problems/beehives)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/beehives.cpp)|
 |[bela](https://open.kattis.com/problems/bela)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bela.py)|
+|[bestrelayteam](https://open.kattis.com/problems/bestrelayteam)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bestrelayteam.cpp)|
 |[bigtruck](https://open.kattis.com/problems/bigtruck)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bigtruck.cpp)|
 |[bijele](https://open.kattis.com/problems/bijele)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bijele.cpp)|
 |[birthday](https://open.kattis.com/problems/birthday)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/birthday.cpp)|
@@ -66,6 +67,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[bus](https://open.kattis.com/problems/bus)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bus.cpp)|
 |[busnumbers](https://open.kattis.com/problems/busnumbers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/busnumbers.cpp)|
 |[busyschedule](https://open.kattis.com/problems/busyschedule)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/busyschedule.py)|
+|[buttonbashing](https://open.kattis.com/problems/buttonbashing)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/buttonbashing.cpp)|
 |[carefulascent](https://open.kattis.com/problems/carefulascent)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carefulascent.cpp)|
 |[cargame](https://open.kattis.com/problems/cargame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cargame.cpp)|
 |[carrots](https://open.kattis.com/problems/carrots)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carrots.cpp)|
@@ -370,6 +372,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[sticky](https://open.kattis.com/problems/sticky)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sticky.cpp)|
 |[stockprices](https://open.kattis.com/problems/stockprices)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/stockprices.cpp)|
 |[succession](https://open.kattis.com/problems/succession)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/succession.cpp)|
+|[suffixsorting](https://open.kattis.com/problems/suffixsorting)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/suffixsorting.py)|
 |[sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumkindofproblem.cpp)|
 |[sumoftheothers](https://open.kattis.com/problems/sumoftheothers)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumoftheothers.py)|
 |[sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumsquareddigits.py)|
