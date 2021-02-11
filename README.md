@@ -148,6 +148,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[earlywinter](https://open.kattis.com/problems/earlywinter)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/earlywinter.cpp)|
 |[easiest](https://open.kattis.com/problems/easiest)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/easiest.cpp)|
 |[egypt](https://open.kattis.com/problems/egypt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/egypt.cpp)|
+|[election](https://open.kattis.com/problems/election)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/election.cpp)|
 |[eligibility](https://open.kattis.com/problems/eligibility)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/eligibility.py)|
 |[encodedmessage](https://open.kattis.com/problems/encodedmessage)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/encodedmessage.cpp)|
 |[engineeringenglish](https://open.kattis.com/problems/engineeringenglish)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/engineeringenglish.cpp)|
@@ -390,7 +391,6 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[sticky](https://open.kattis.com/problems/sticky)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sticky.cpp)|
 |[stockprices](https://open.kattis.com/problems/stockprices)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/stockprices.cpp)|
 |[succession](https://open.kattis.com/problems/succession)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/succession.cpp)|
-|[suffixsorting](https://open.kattis.com/problems/suffixsorting)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/suffixsorting.py)|
 |[sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumkindofproblem.cpp)|
 |[sumoftheothers](https://open.kattis.com/problems/sumoftheothers)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumoftheothers.py)|
 |[sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumsquareddigits.py)|
