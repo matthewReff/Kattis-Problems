@@ -86,6 +86,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[busnumbers](https://open.kattis.com/problems/busnumbers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/busnumbers.cpp)|
 |[busyschedule](https://open.kattis.com/problems/busyschedule)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/busyschedule.py)|
 |[buttonbashing](https://open.kattis.com/problems/buttonbashing)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/buttonbashing.cpp)|
+|[cantinaofbabel](https://open.kattis.com/problems/cantinaofbabel)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cantinaofbabel.cpp)|
 |[carefulascent](https://open.kattis.com/problems/carefulascent)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carefulascent.cpp)|
 |[cargame](https://open.kattis.com/problems/cargame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cargame.cpp)|
 |[carrots](https://open.kattis.com/problems/carrots)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carrots.cpp)|
