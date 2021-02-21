@@ -172,6 +172,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[fenwick](https://open.kattis.com/problems/fenwick)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fenwick.cpp)|
 |[fiftyshades](https://open.kattis.com/problems/fiftyshades)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fiftyshades.cpp)|
 |[filip](https://open.kattis.com/problems/filip)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/filip.py)|
+|[finalexam2](https://open.kattis.com/problems/finalexam2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/finalexam2.cpp)|
 |[fishmongers](https://open.kattis.com/problems/fishmongers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fishmongers.cpp)|
 |[fizzbuzz](https://open.kattis.com/problems/fizzbuzz)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fizzbuzz.cpp)|
 |[flexible](https://open.kattis.com/problems/flexible)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/flexible.cpp)|
@@ -188,6 +189,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[grassseed](https://open.kattis.com/problems/grassseed)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/grassseed.cpp)|
 |[greedilyincreasing](https://open.kattis.com/problems/greedilyincreasing)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/greedilyincreasing.cpp)|
 |[greedypolygons](https://open.kattis.com/problems/greedypolygons)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/greedypolygons.cpp)|
+|[greetings2](https://open.kattis.com/problems/greetings2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/greetings2.cpp)|
 |[grid](https://open.kattis.com/problems/grid)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/grid.cpp)|
 |[growlinggears](https://open.kattis.com/problems/growlinggears)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/growlinggears.cpp)|
 |[guessinggame](https://open.kattis.com/problems/guessinggame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/guessinggame.cpp)|
@@ -200,6 +202,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[harshadnumbers](https://open.kattis.com/problems/harshadnumbers)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/harshadnumbers.py)|
 |[haypoints](https://open.kattis.com/problems/haypoints)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/haypoints.cpp)|
 |[heartrate](https://open.kattis.com/problems/heartrate)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/heartrate.cpp)|
+|[heimavinna](https://open.kattis.com/problems/heimavinna)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/heimavinna.py)|
 |[heirsdilemma](https://open.kattis.com/problems/heirsdilemma)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/heirsdilemma.py)|
 |[heliocentric](https://open.kattis.com/problems/heliocentric)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/heliocentric.cpp)|
 |[hello](https://open.kattis.com/problems/hello)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/hello.cpp)|
@@ -228,6 +231,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[islands](https://open.kattis.com/problems/islands)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/islands.cpp)|
 |[islands3](https://open.kattis.com/problems/islands3)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/islands3.cpp)|
 |[iwannabe](https://open.kattis.com/problems/iwannabe)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/iwannabe.cpp)|
+|[jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/jackolanternjuxtaposition.cpp)|
 |[jobexpenses](https://open.kattis.com/problems/jobexpenses)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/jobexpenses.cpp)|
 |[joylessgame](https://open.kattis.com/problems/joylessgame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/joylessgame.cpp)|
 |[judging](https://open.kattis.com/problems/judging)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/judging.cpp)|
@@ -282,6 +286,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[oddgnome](https://open.kattis.com/problems/oddgnome)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/oddgnome.cpp)|
 |[oddities](https://open.kattis.com/problems/oddities)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/oddities.cpp)|
 |[oddmanout](https://open.kattis.com/problems/oddmanout)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/oddmanout.cpp)|
+|[ofugsnuid](https://open.kattis.com/problems/ofugsnuid)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/ofugsnuid.cpp)|
 |[oktalni](https://open.kattis.com/problems/oktalni)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/oktalni.py)|
 |[okvir](https://open.kattis.com/problems/okvir)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/okvir.cpp)|
 |[okviri](https://open.kattis.com/problems/okviri)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/okviri.cpp)|
@@ -430,6 +435,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[unionfind](https://open.kattis.com/problems/unionfind)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/unionfind.cpp)|
 |[unlockpattern](https://open.kattis.com/problems/unlockpattern)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/unlockpattern.cpp)|
 |[unlockpattern](https://open.kattis.com/problems/unlockpattern)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/unlockpattern.py)|
+|[upprodun](https://open.kattis.com/problems/upprodun)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/upprodun.cpp)|
 |[uxuhulvoting](https://open.kattis.com/problems/uxuhulvoting)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/uxuhulvoting.cpp)|
 |[vacuumba](https://open.kattis.com/problems/vacuumba)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/vacuumba.cpp)|
 |[veci](https://open.kattis.com/problems/veci)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/veci.cpp)|
