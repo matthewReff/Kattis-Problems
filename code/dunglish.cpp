@@ -7,90 +7,115 @@
 #include <string>
 #include <algorithm>
 #include <unordered_set>
+#include <unordered_map>
 #include <ctype.h>
 #include <queue>
 #include <map>
 #include <set>
 #include <stack>
-#include <unordered_map>
 
-#define EPSILON 0.00001
 typedef long long ll;
 typedef unsigned long long ull;
-typedef long double ld;
 using namespace std;
 
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
     ll i, j, k;
-    
+    //ios::sync_with_stdio(false);
+    //cin.tie(0);
+    //cout.tie(0);
 
-    ll words, numTranslations;
-    ll rightTranslations, wrongTranslations, tempRight, tempWrong;
+    ll numWords;
+    cin >> numWords;
+    ll numTranslations;
+    vector<string> words(numWords);
+    map<string, vector<string>> correct;
+    map<string, vector<string>> incorrect;
 
-    string dutchWord, englishWord, correctness;
-    map<string, int> corrects;
-    map<string, int> incorrects;
-    map<string, string> translation;
-    
-    cin >> words;
-        vector<string> sentence(words);
-    for(i = 0; i < words; i++)
+    for(int i = 0; i < numWords; i++)
     {
-        cin >> sentence[i];
+    	cin >> words[i];
     }
+
     cin >> numTranslations;
-    for(i = 0; i < numTranslations; i++)
+    string dutch, english, correctness;
+    for(int i = 0; i < numTranslations; i++)
     {
-        cin >> dutchWord >> englishWord >> correctness;
-        if(correctness == "correct")
-        {
-            corrects[dutchWord]++;
-        }
-        else
-        {
-            incorrects[dutchWord]++;
-        }
-        translation[dutchWord] = englishWord;
+    	cin >> dutch >> english >> correctness;
+    	if(correctness == "correct")
+    	{
+    		correct[dutch].push_back(english);
+    	}
+    	else
+    	{
+    		incorrect[dutch].push_back(english);
+    	}
     }
-    
-    
-    rightTranslations = corrects[sentence[0]];
-    wrongTranslations = incorrects[sentence[0]];
-    for(i = 1; i < words; i++)
+
+    ll totalCorrect = correct[words[0]].size();
+    ll totalIncorrect = incorrect[words[0]].size();
+
+    for(int i = 1; i < numWords; i++)
     {
-        tempRight = rightTranslations;
-        tempWrong = wrongTranslations;
-        rightTranslations = tempRight * corrects[sentence[i]];
-        wrongTranslations = tempRight * incorrects[sentence[i]];
-        wrongTranslations += tempWrong * corrects[sentence[i]] + tempWrong * incorrects[sentence[i]];
+    	ll newCorrect = 0;
+    	ll newIncorrect = 0;
+    	auto elem = correct.find(words[i]);
+    	if(elem != correct.end())
+    	{
+    		newCorrect = elem->second.size();
+    	}
+    	elem = incorrect.find(words[i]);
+    	if(elem != incorrect.end())
+    	{
+    		newIncorrect = elem->second.size();
+    	}
+
+    	ll oldIncorrect = totalIncorrect;
+    	totalIncorrect = (totalCorrect + totalIncorrect) * newIncorrect;
+    	totalIncorrect += oldIncorrect * newCorrect;
+    	totalCorrect *= newCorrect;
     }
-    
-    if(rightTranslations == 1 ^ wrongTranslations == 1)
+
+    if(totalCorrect + totalIncorrect == 1)
     {
-        for(auto part : sentence)
-        {
-            cout << translation[part] << " ";
-        }
-        cout << "\n";
-        if(rightTranslations)
-        {
-            cout << "correct\n";
-        }
-        else
-        {
-            cout << "incorrect\n";
-        }
+    	for(int i = 0; i < numWords; i++)
+    	{
+    		auto found = incorrect.find(words[i]);
+    		if(found != incorrect.end())
+    		{
+    			for(auto elem : incorrect[words[i]])
+    			{
+    				cout << elem << " ";
+    			}
+    		}
+
+    		found = correct.find(words[i]);
+    		if(found != correct.end())
+    		{
+    			for(auto elem : correct[words[i]])
+    			{
+    				cout << elem << " ";
+    			}
+    		}
+    		//else
+    		//{
+    		//	cout << correct[words[i]][0] << " ";
+    		//}
+    	}
+    	if(totalCorrect == 1)
+    	{
+    		cout << "\ncorrect\n";
+    	}
+    	else
+    	{
+    		cout << "\nincorrect\n";
+    	}
     }
     else
     {
-        cout << rightTranslations << " correct\n";
-        cout << wrongTranslations << " incorrect\n";
+    	cout << totalCorrect << " correct\n";
+    	cout << totalIncorrect << " incorrect\n";
     }
+
     return 0;
 }
-
-
