@@ -126,6 +126,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[cursethedarkness](https://open.kattis.com/problems/cursethedarkness)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cursethedarkness.cpp)|
 |[dartscores](https://open.kattis.com/problems/dartscores)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/dartscores.cpp)|
 |[dasblinkenlights](https://open.kattis.com/problems/dasblinkenlights)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/dasblinkenlights.cpp)|
+|[dasort](https://open.kattis.com/problems/dasort)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/dasort.cpp)|
 |[datum](https://open.kattis.com/problems/datum)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/datum.py)|
 |[deathknight](https://open.kattis.com/problems/deathknight)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/deathknight.cpp)|
 |[deathstar](https://open.kattis.com/problems/deathstar)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/deathstar.cpp)|
@@ -150,6 +151,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[easiest](https://open.kattis.com/problems/easiest)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/easiest.cpp)|
 |[egypt](https://open.kattis.com/problems/egypt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/egypt.cpp)|
 |[election](https://open.kattis.com/problems/election)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/election.cpp)|
+|[electricaloutlets](https://open.kattis.com/problems/electricaloutlets)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/electricaloutlets.cpp)|
 |[eligibility](https://open.kattis.com/problems/eligibility)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/eligibility.py)|
 |[encodedmessage](https://open.kattis.com/problems/encodedmessage)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/encodedmessage.cpp)|
 |[engineeringenglish](https://open.kattis.com/problems/engineeringenglish)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/engineeringenglish.cpp)|
@@ -166,6 +168,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[fallingapart](https://open.kattis.com/problems/fallingapart)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fallingapart.cpp)|
 |[falsesecurity](https://open.kattis.com/problems/falsesecurity)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/falsesecurity.py)|
 |[fastfood](https://open.kattis.com/problems/fastfood)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fastfood.cpp)|
+|[fbiuniversal](https://open.kattis.com/problems/fbiuniversal)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fbiuniversal.cpp)|
 |[fenwick](https://open.kattis.com/problems/fenwick)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fenwick.cpp)|
 |[fiftyshades](https://open.kattis.com/problems/fiftyshades)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fiftyshades.cpp)|
 |[filip](https://open.kattis.com/problems/filip)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/filip.py)|
