@@ -18,6 +18,34 @@ typedef long long ll;
 typedef unsigned long long ull;
 using namespace std;
 
+ll process(ll input)
+{
+	if(input < 10)
+	{
+		return input;
+	}
+	else
+	{
+		vector<ll> vals;
+		while(input != 0)
+		{
+			ll next = input % 10;
+			input /= 10;
+			if(next != 0)
+			{
+				vals.push_back(next);
+			}
+		}
+		ll total = vals[0];
+		for(ll i = 1; i < vals.size(); i++)
+		{
+			total *= vals[i];
+		}
+		return process(total);
+	}
+}
+
+
 int main()
 {
     ll i, j, k;
@@ -25,26 +53,10 @@ int main()
     cin.tie(0);
     cout.tie(0);
 
-    ll range, obstacles;
-    cin >> range >> obstacles;
-    ll temp;
-    set<int> vals;
-
-    for(int i = 0; i < obstacles; i++)
-    {
-    	cin >> temp;
-    	vals.insert(temp);
-    }
+    ll input;
+    cin >> input;
+    cout << process(input) << "\n";
 
 
-    for(int i = 0; i < range; i++)
-    {
-    	if (vals.find(i) == vals.end())
-    	{
-    		cout << i << "\n";
-    	}
-    }
-
-    cout << "Mario got " << vals.size() << " of the dangerous obstacles." << "\n";
     return 0;
 }
