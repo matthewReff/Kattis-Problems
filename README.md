@@ -90,6 +90,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[carefulascent](https://open.kattis.com/problems/carefulascent)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carefulascent.cpp)|
 |[cargame](https://open.kattis.com/problems/cargame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cargame.cpp)|
 |[carrots](https://open.kattis.com/problems/carrots)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carrots.cpp)|
+|[caveexploration2](https://open.kattis.com/problems/caveexploration2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/caveexploration2.cpp)|
 |[cd](https://open.kattis.com/problems/cd)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cd.cpp)|
 |[ceiling](https://open.kattis.com/problems/ceiling)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/ceiling.cpp)|
 |[cetiri](https://open.kattis.com/problems/cetiri)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cetiri.cpp)|
@@ -245,6 +246,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[keywords](https://open.kattis.com/problems/keywords)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/keywords.cpp)|
 |[kitten](https://open.kattis.com/problems/kitten)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/kitten.cpp)|
 |[kleptography](https://open.kattis.com/problems/kleptography)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/kleptography.cpp)|
+|[knockout](https://open.kattis.com/problems/knockout)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/knockout.cpp)|
 |[kornislav](https://open.kattis.com/problems/kornislav)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/kornislav.cpp)|
 |[krizaljka](https://open.kattis.com/problems/krizaljka)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/krizaljka.cpp)|
 |[ladder](https://open.kattis.com/problems/ladder)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/ladder.cpp)|
@@ -376,10 +378,12 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[showroom](https://open.kattis.com/problems/showroom)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/showroom.cpp)|
 |[sibice](https://open.kattis.com/problems/sibice)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sibice.cpp)|
 |[sidewayssorting](https://open.kattis.com/problems/sidewayssorting)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sidewayssorting.cpp)|
+|[sifferprodukt](https://open.kattis.com/problems/sifferprodukt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sifferprodukt.cpp)|
 |[simon](https://open.kattis.com/problems/simon)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simon.py)|
 |[simonsays](https://open.kattis.com/problems/simonsays)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simonsays.py)|
 |[simpleaddition](https://open.kattis.com/problems/simpleaddition)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simpleaddition.py)|
 |[simplicity](https://open.kattis.com/problems/simplicity)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simplicity.cpp)|
+|[sjecista](https://open.kattis.com/problems/sjecista)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sjecista.cpp)|
 |[skener](https://open.kattis.com/problems/skener)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/skener.cpp)|
 |[skocimis](https://open.kattis.com/problems/skocimis)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/skocimis.cpp)|
 |[slatkisi](https://open.kattis.com/problems/slatkisi)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/slatkisi.cpp)|
