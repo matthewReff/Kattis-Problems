@@ -37,6 +37,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[almostperfect](https://open.kattis.com/problems/almostperfect)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/almostperfect.cpp)|
 |[alphabetspam](https://open.kattis.com/problems/alphabetspam)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/alphabetspam.cpp)|
 |[amoebas](https://open.kattis.com/problems/amoebas)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/amoebas.cpp)|
+|[anagramcounting](https://open.kattis.com/problems/anagramcounting)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anagramcounting.py)|
 |[anewalphabet](https://open.kattis.com/problems/anewalphabet)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anewalphabet.cpp)|
 |[anotherbrick](https://open.kattis.com/problems/anotherbrick)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anotherbrick.cpp)|
 |[anothercandies](https://open.kattis.com/problems/anothercandies)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anothercandies.py)|
@@ -322,6 +323,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[platforme](https://open.kattis.com/problems/platforme)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/platforme.cpp)|
 |[pokerhand](https://open.kattis.com/problems/pokerhand)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/pokerhand.cpp)|
 |[polygonarea](https://open.kattis.com/problems/polygonarea)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/polygonarea.cpp)|
+|[polymul1](https://open.kattis.com/problems/polymul1)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/polymul1.cpp)|
 |[pot](https://open.kattis.com/problems/pot)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/pot.cpp)|
 |[prerequisites](https://open.kattis.com/problems/prerequisites)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/prerequisites.cpp)|
 |[primaryarithmetic](https://open.kattis.com/problems/primaryarithmetic)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/primaryarithmetic.cpp)|
@@ -432,7 +434,6 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[trik](https://open.kattis.com/problems/trik)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/trik.py)|
 |[tripletexting](https://open.kattis.com/problems/tripletexting)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/tripletexting.cpp)|
 |[trollhunt](https://open.kattis.com/problems/trollhunt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/trollhunt.cpp)|
-|[tsp](https://open.kattis.com/problems/tsp)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/tsp.cpp)|
 |[tutorial](https://open.kattis.com/problems/tutorial)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/tutorial.py)|
 |[twostones](https://open.kattis.com/problems/twostones)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/twostones.cpp)|
 |[ummcode](https://open.kattis.com/problems/ummcode)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/ummcode.cpp)|
