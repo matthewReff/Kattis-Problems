@@ -37,6 +37,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[almostperfect](https://open.kattis.com/problems/almostperfect)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/almostperfect.cpp)|
 |[alphabetspam](https://open.kattis.com/problems/alphabetspam)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/alphabetspam.cpp)|
 |[amoebas](https://open.kattis.com/problems/amoebas)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/amoebas.cpp)|
+|[anagramcounting](https://open.kattis.com/problems/anagramcounting)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anagramcounting.py)|
 |[anewalphabet](https://open.kattis.com/problems/anewalphabet)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anewalphabet.cpp)|
 |[anotherbrick](https://open.kattis.com/problems/anotherbrick)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anotherbrick.cpp)|
 |[anothercandies](https://open.kattis.com/problems/anothercandies)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/anothercandies.py)|
@@ -90,6 +91,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[carefulascent](https://open.kattis.com/problems/carefulascent)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carefulascent.cpp)|
 |[cargame](https://open.kattis.com/problems/cargame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cargame.cpp)|
 |[carrots](https://open.kattis.com/problems/carrots)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/carrots.cpp)|
+|[caveexploration2](https://open.kattis.com/problems/caveexploration2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/caveexploration2.cpp)|
 |[cd](https://open.kattis.com/problems/cd)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cd.cpp)|
 |[ceiling](https://open.kattis.com/problems/ceiling)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/ceiling.cpp)|
 |[cetiri](https://open.kattis.com/problems/cetiri)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/cetiri.cpp)|
@@ -245,6 +247,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[keywords](https://open.kattis.com/problems/keywords)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/keywords.cpp)|
 |[kitten](https://open.kattis.com/problems/kitten)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/kitten.cpp)|
 |[kleptography](https://open.kattis.com/problems/kleptography)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/kleptography.cpp)|
+|[knockout](https://open.kattis.com/problems/knockout)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/knockout.cpp)|
 |[kornislav](https://open.kattis.com/problems/kornislav)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/kornislav.cpp)|
 |[krizaljka](https://open.kattis.com/problems/krizaljka)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/krizaljka.cpp)|
 |[ladder](https://open.kattis.com/problems/ladder)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/ladder.cpp)|
@@ -320,6 +323,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[platforme](https://open.kattis.com/problems/platforme)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/platforme.cpp)|
 |[pokerhand](https://open.kattis.com/problems/pokerhand)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/pokerhand.cpp)|
 |[polygonarea](https://open.kattis.com/problems/polygonarea)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/polygonarea.cpp)|
+|[polymul1](https://open.kattis.com/problems/polymul1)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/polymul1.cpp)|
 |[pot](https://open.kattis.com/problems/pot)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/pot.cpp)|
 |[prerequisites](https://open.kattis.com/problems/prerequisites)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/prerequisites.cpp)|
 |[primaryarithmetic](https://open.kattis.com/problems/primaryarithmetic)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/primaryarithmetic.cpp)|
@@ -376,10 +380,12 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[showroom](https://open.kattis.com/problems/showroom)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/showroom.cpp)|
 |[sibice](https://open.kattis.com/problems/sibice)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sibice.cpp)|
 |[sidewayssorting](https://open.kattis.com/problems/sidewayssorting)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sidewayssorting.cpp)|
+|[sifferprodukt](https://open.kattis.com/problems/sifferprodukt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sifferprodukt.cpp)|
 |[simon](https://open.kattis.com/problems/simon)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simon.py)|
 |[simonsays](https://open.kattis.com/problems/simonsays)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simonsays.py)|
 |[simpleaddition](https://open.kattis.com/problems/simpleaddition)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simpleaddition.py)|
 |[simplicity](https://open.kattis.com/problems/simplicity)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/simplicity.cpp)|
+|[sjecista](https://open.kattis.com/problems/sjecista)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sjecista.cpp)|
 |[skener](https://open.kattis.com/problems/skener)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/skener.cpp)|
 |[skocimis](https://open.kattis.com/problems/skocimis)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/skocimis.cpp)|
 |[slatkisi](https://open.kattis.com/problems/slatkisi)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/slatkisi.cpp)|
@@ -421,6 +427,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[towering](https://open.kattis.com/problems/towering)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/towering.cpp)|
 |[trainpassengers](https://open.kattis.com/problems/trainpassengers)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/trainpassengers.cpp)|
 |[transitwoes](https://open.kattis.com/problems/transitwoes)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/transitwoes.cpp)|
+|[traveltheskies](https://open.kattis.com/problems/traveltheskies)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/traveltheskies.cpp)|
 |[treasurehunt](https://open.kattis.com/problems/treasurehunt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/treasurehunt.cpp)|
 |[treehouses](https://open.kattis.com/problems/treehouses)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/treehouses.cpp)|
 |[tri](https://open.kattis.com/problems/tri)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/tri.cpp)|
@@ -428,7 +435,6 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[trik](https://open.kattis.com/problems/trik)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/trik.py)|
 |[tripletexting](https://open.kattis.com/problems/tripletexting)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/tripletexting.cpp)|
 |[trollhunt](https://open.kattis.com/problems/trollhunt)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/trollhunt.cpp)|
-|[tsp](https://open.kattis.com/problems/tsp)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/tsp.cpp)|
 |[tutorial](https://open.kattis.com/problems/tutorial)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/tutorial.py)|
 |[twostones](https://open.kattis.com/problems/twostones)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/twostones.cpp)|
 |[ummcode](https://open.kattis.com/problems/ummcode)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/ummcode.cpp)|
