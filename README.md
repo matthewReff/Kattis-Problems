@@ -183,6 +183,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[flexible](https://open.kattis.com/problems/flexible)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/flexible.cpp)|
 |[flippingpatties](https://open.kattis.com/problems/flippingpatties)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/flippingpatties.cpp)|
 |[flyingsafely](https://open.kattis.com/problems/flyingsafely)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/flyingsafely.cpp)|
+|[forcedchoice](https://open.kattis.com/problems/forcedchoice)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/forcedchoice.py)|
 |[freckles](https://open.kattis.com/problems/freckles)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/freckles.cpp)|
 |[freefood](https://open.kattis.com/problems/freefood)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/freefood.cpp)|
 |[friday](https://open.kattis.com/problems/friday)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/friday.cpp)|
@@ -404,6 +405,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[sortofsorting](https://open.kattis.com/problems/sortofsorting)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sortofsorting.cpp)|
 |[soylent](https://open.kattis.com/problems/soylent)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/soylent.cpp)|
 |[spavanac](https://open.kattis.com/problems/spavanac)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/spavanac.cpp)|
+|[speeding](https://open.kattis.com/problems/speeding)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/speeding.py)|
 |[speedlimit](https://open.kattis.com/problems/speedlimit)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/speedlimit.cpp)|
 |[squaredeal](https://open.kattis.com/problems/squaredeal)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/squaredeal.cpp)|
 |[squawk](https://open.kattis.com/problems/squawk)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/squawk.cpp)|
@@ -411,6 +413,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[statistics](https://open.kattis.com/problems/statistics)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/statistics.cpp)|
 |[sticky](https://open.kattis.com/problems/sticky)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sticky.cpp)|
 |[stockprices](https://open.kattis.com/problems/stockprices)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/stockprices.cpp)|
+|[stopwatch](https://open.kattis.com/problems/stopwatch)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/stopwatch.py)|
 |[succession](https://open.kattis.com/problems/succession)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/succession.cpp)|
 |[sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumkindofproblem.cpp)|
 |[sumoftheothers](https://open.kattis.com/problems/sumoftheothers)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/sumoftheothers.py)|
