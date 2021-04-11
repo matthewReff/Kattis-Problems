@@ -188,6 +188,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[freefood](https://open.kattis.com/problems/freefood)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/freefood.cpp)|
 |[friday](https://open.kattis.com/problems/friday)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/friday.cpp)|
 |[froshweek2](https://open.kattis.com/problems/froshweek2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/froshweek2.cpp)|
+|[fyi](https://open.kattis.com/problems/fyi)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/fyi.py)|
 |[gears2](https://open.kattis.com/problems/gears2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/gears2.cpp)|
 |[gerrymandering](https://open.kattis.com/problems/gerrymandering)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/gerrymandering.cpp)|
 |[goatrope](https://open.kattis.com/problems/goatrope)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/goatrope.cpp)|
@@ -239,10 +240,12 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[islands3](https://open.kattis.com/problems/islands3)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/islands3.cpp)|
 |[iwannabe](https://open.kattis.com/problems/iwannabe)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/iwannabe.cpp)|
 |[jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/jackolanternjuxtaposition.cpp)|
+|[janitortroubles](https://open.kattis.com/problems/janitortroubles)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/janitortroubles.py)|
 |[jobexpenses](https://open.kattis.com/problems/jobexpenses)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/jobexpenses.cpp)|
 |[joylessgame](https://open.kattis.com/problems/joylessgame)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/joylessgame.cpp)|
 |[judging](https://open.kattis.com/problems/judging)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/judging.cpp)|
 |[judgingmoose](https://open.kattis.com/problems/judgingmoose)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/judgingmoose.cpp)|
+|[jumbojavelin](https://open.kattis.com/problems/jumbojavelin)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/jumbojavelin.py)|
 |[juryjeopardy](https://open.kattis.com/problems/juryjeopardy)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/juryjeopardy.cpp)|
 |[justaminute](https://open.kattis.com/problems/justaminute)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/justaminute.cpp)|
 |[kafkaesque](https://open.kattis.com/problems/kafkaesque)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/kafkaesque.cpp)|
