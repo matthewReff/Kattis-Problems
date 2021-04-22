@@ -83,6 +83,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[bottledup](https://open.kattis.com/problems/bottledup)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bottledup.cpp)|
 |[boundingrobots](https://open.kattis.com/problems/boundingrobots)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/boundingrobots.cpp)|
 |[breakingbad](https://open.kattis.com/problems/breakingbad)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/breakingbad.cpp)|
+|[breakingbranches](https://open.kattis.com/problems/breakingbranches)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/breakingbranches.py)|
 |[brokenswords](https://open.kattis.com/problems/brokenswords)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/brokenswords.cpp)|
 |[bubbletea](https://open.kattis.com/problems/bubbletea)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bubbletea.cpp)|
 |[bus](https://open.kattis.com/problems/bus)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/bus.cpp)|
@@ -102,6 +103,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[chanukah](https://open.kattis.com/problems/chanukah)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/chanukah.py)|
 |[character](https://open.kattis.com/problems/character)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/character.py)|
 |[checkingforcorrectness](https://open.kattis.com/problems/checkingforcorrectness)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/checkingforcorrectness.cpp)|
+|[chesstournament](https://open.kattis.com/problems/chesstournament)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/chesstournament.cpp)|
 |[chopin](https://open.kattis.com/problems/chopin)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/chopin.py)|
 |[circuitmath](https://open.kattis.com/problems/circuitmath)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/circuitmath.cpp)|
 |[classy](https://open.kattis.com/problems/classy)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/classy.cpp)|
@@ -119,6 +121,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[compoundwords](https://open.kattis.com/problems/compoundwords)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/compoundwords.cpp)|
 |[conformity](https://open.kattis.com/problems/conformity)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/conformity.cpp)|
 |[conquestcampaign](https://open.kattis.com/problems/conquestcampaign)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/conquestcampaign.cpp)|
+|[conteststruggles](https://open.kattis.com/problems/conteststruggles)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/conteststruggles.cpp)|
 |[continuousmedian](https://open.kattis.com/problems/continuousmedian)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/continuousmedian.cpp)|
 |[conundrum](https://open.kattis.com/problems/conundrum)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/conundrum.py)|
 |[convexpolygonarea](https://open.kattis.com/problems/convexpolygonarea)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/convexpolygonarea.cpp)|
