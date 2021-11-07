@@ -272,6 +272,7 @@ Some solutions may be my team's solution submitted under my account, I try to cr
 |[loorolls](https://open.kattis.com/problems/loorolls)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/loorolls.cpp)|
 |[lostlineup](https://open.kattis.com/problems/lostlineup)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/lostlineup.cpp)|
 |[luhnchecksum](https://open.kattis.com/problems/luhnchecksum)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/luhnchecksum.py)|
+|[lyklagangriti](https://open.kattis.com/problems/lyklagangriti)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/lyklagangriti.cpp)|
 |[magicalcows](https://open.kattis.com/problems/magicalcows)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/magicalcows.py)|
 |[maptiles2](https://open.kattis.com/problems/maptiles2)|[C++](https://github.com/matthewReff/Kattis-Problems/blob/master/code/maptiles2.cpp)|
 |[marko](https://open.kattis.com/problems/marko)|[Python](https://github.com/matthewReff/Kattis-Problems/blob/master/code/marko.py)|
